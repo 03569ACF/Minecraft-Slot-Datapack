@@ -1,4 +1,5 @@
 # SLOT DATAPACK
 Slot datapack by 03569ACF  
 
-slot.core:generate/util/set_sighのUUIDを背面に書くかのプログラムの更新を忘れずに。
+## 動作環境
+- Minecraft Java Edition 1.21.2
